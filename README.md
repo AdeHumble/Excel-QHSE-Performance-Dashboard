@@ -1,5 +1,5 @@
 <p align="center">
-  <b><span style="font-size: larger;">EXCEL QHSE PERFORMANCE DASHBOARD</span></b>
+  <b><span style="font-size: 20px;">EXCEL QHSE PERFORMANCE DASHBOARD</span></b>
 </p>
 
 ## PROJECT TITLE: UNIFYING METRICS FOR SMARTER DECISION-MAKING
