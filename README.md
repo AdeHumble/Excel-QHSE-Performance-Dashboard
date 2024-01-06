@@ -1,7 +1,7 @@
 # <p align="center">**EXCEL QHSE PERFORMANCE DASHBOARD**</p>
 
 ## PROJECT TITLE: UNIFYING METRICS FOR SMARTER DECISION-MAKING
-This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
+#### This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
 
 
 ## PROJECT OVERVIEW
