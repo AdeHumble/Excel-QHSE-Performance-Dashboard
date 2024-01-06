@@ -9,8 +9,6 @@
 ## PROJECT OVERVIEW
 <p align="justify">
   In the dynamic landscape of data analytics, I, Mujeeb adeyanju SUNMOLA, an automotive part analyst, found myself in a compelling challenge that not only tested my analytical skills but also underscored the power of collaboration in problem-solving.
-  
-  
   This journey began when my senior colleague, the HSE manager, approached me with a complex data visualization dilemma, seeking to consolidate diverse metrics across 11 business units. This GitHub project narrates my approach, challenges, and triumphs in turning this problem into a real-life data analytics project.
   
   
