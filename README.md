@@ -26,14 +26,21 @@ The initial dataset consisted of 48 Excel sheets, each representing a specific a
 
 These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
 
-# <p align="center">**BU Dashboard Sample**</p>
-![BU Dashboard Sample](images/BU%20Dashboard%20Sample.PNG "Sample of BU Dashboard")
+
+# <p align="center">**Sample of Environmental Control Data Sheet**</p>
+![BU Environmental Control Sample](images/Environmental%20Control%20Sample.PNG "Sample of Environmental Control Data Sheet")
 
 # <p align="center">**Sample of QLTY KPI Data Sheet**</p>
 ![BU QLTY KPI Sample](images/BU%20QLTY%20KPI%20Sample.PNG "BU QLTY KPI Sample")
 
 # <p align="center">**Sample of BU KPI Data Sheet**</p>
 ![BU KPI Sample](images/BU%20KPI%20Sample.PNG "BU KPI Sample")
+
+# <p align="center">**BU Dashboard Sample**</p>
+![BU Dashboard Sample](images/BU%20Dashboard%20Sample.PNG "Sample of BU Dashboard")
+
+# <p align="center">**Sample of Leading Indicators Data Sheet**</p>
+![BU Leading Indicators Sample](images/Leading%20Indicators%20Sample.PNG "Sample of Leading Indicators Data Sheet")
 
 
 ## MY APPROACH
