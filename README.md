@@ -27,13 +27,17 @@ The initial dataset consisted of 48 Excel sheets, each representing a specific a
 These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
 
 
-![Project Dashboard](images/BU%20Dashboard%20Sample.PNG)
+![BU Dashboard Sample](images/BU%20Dashboard%20Sample.PNG)
+![BU QLTY KPI Sample](images/BU%20QLTY%20KPI%20Sample.PNG)
+![BU KPI Sample](images/BU%20KPI%20Sample.PNG)
 
 
 ## MY APPROACH
 #### 1. The Ask Phase
 - Engaged in thorough discussions with the QHSE manager to understand objectives and expectations
-- Clarified professional jargon to sought clarity on complex metrics
+- Clarified professional jargon to sought clarity on complex metrics. Some of which includes
+      - Lagging Indicators
+      - Leading Indicators
   
 #### 2. The Prepare Phase
 - Scrutinized the complex initial data
