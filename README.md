@@ -1,21 +1,27 @@
 # <p align="center">**EXCEL QHSE PERFORMANCE DASHBOARD**</p>
 
 ## PROJECT TITLE: UNIFYING METRICS FOR SMARTER DECISION-MAKING
-This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
+<p align="justify">
+  This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
+</p
+
 
 ## PROJECT OVERVIEW
+<p align="justify">
 In the dynamic landscape of data analytics, I, Mujeeb adeyanju SUNMOLA, an automotive part analyst, found myself in a compelling challenge that not only tested my analytical skills but also underscored the power of collaboration in problem-solving.
 
 This journey began when my senior colleague, the HSE manager, approached me with a complex data visualization dilemma, seeking to consolidate diverse metrics across 11 business units. This GitHub project narrates my approach, challenges, and triumphs in turning this problem into a real-life data analytics project.
 
 Embark on a journey with me as I tackle a complex data analytics challenge presented by the Quality, Health, Safety, and Environment (QHSE) Manage
+</p
+
 
 ## PROBLEM STATEMENT
 The task at hand involved synchronizing disparate KPI datasets for each of our 11 business units and creating an automated real-time performance dashboard.
 
 The challenge was not only technical but required a deep understanding of the intricacies of Quality, Health, Safety, and Environment (QHSE) metrics.
 
-My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.
+**My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.**
 
 ## DATA
 The initial dataset consisted of 48 Excel sheets, each representing a specific aspect of QHSE metrics across different business units.
