@@ -43,13 +43,13 @@ A video demonstration showcasing the cleaned synchronized data table and an inte
 
 ## SKILLS ACCRUED
 ### 1. Analytical Approach
-- Developed a structured analytical approach to understanding complex challenges, breaking them into manageable phases, and delivering effective solutions.
+Developed a structured analytical approach to understanding complex challenges, breaking them into manageable phases, and delivering effective solutions.
 
 ### 2. Collaboration, Effective Communication and Networking
-- Demonstrated the power of collaboration by engaging in detailed discussions, seeking insights from colleagues, and incorporating feedback for continuous improvement.
+Demonstrated the power of collaboration by engaging in detailed discussions, seeking insights from colleagues, and incorporating feedback for continuous improvement.
 
 ### 3. Problem-Solving
-- Navigated through intricate data structures, solved problems iteratively, and applied creative solutions to synchronize and visualize diverse datasets.
+Navigated through intricate data structures, solved problems iteratively, and applied creative solutions to synchronize and visualize diverse datasets.
 
 ### 4. Data Analysis
 - Applied a range of data analysis techniques, including conditional formatting, data validation, and visualization tools, to derive meaningful insights from raw data.
