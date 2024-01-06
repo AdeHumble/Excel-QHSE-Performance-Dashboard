@@ -27,7 +27,8 @@ The initial dataset consisted of 48 Excel sheets, each representing a specific a
 These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
 
 
-![Project Dashboard](images/BU Dashboard Sample.png)
+![Project Dashboard](images/BU%20Dashboard%20Sample.PNG)
+
 
 ## MY APPROACH
 #### 1. The Ask Phase
