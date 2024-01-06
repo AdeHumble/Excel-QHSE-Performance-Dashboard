@@ -11,7 +11,9 @@ This journey began when my senior colleague, the HSE manager, approached me with
 Embark on a journey with me as I tackle a complex data analytics challenge presented by the Quality, Health, Safety, and Environment (QHSE) Manage
 
 ## PROBLEM STATEMENT
-The task at hand involved synchronizing disparate KPI datasets for each of our 11 business units and creating an automated real-time performance dashboard. The challenge was not only technical but required a deep understanding of the intricacies of Quality, Health, Safety, and Environment (QHSE) metrics. My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.
+The task at hand involved synchronizing disparate KPI datasets for each of our 11 business units and creating an automated real-time performance dashboard.
+The challenge was not only technical but required a deep understanding of the intricacies of Quality, Health, Safety, and Environment (QHSE) metrics.
+My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.
 
 ## DATA
 The initial dataset consisted of 48 Excel sheets, each representing a specific aspect of QHSE metrics across different business units. These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
