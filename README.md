@@ -21,19 +21,19 @@ The challenge was not only technical but required a deep understanding of the in
 
 **My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.**
 
-## INITAIL DATA
+## INITIAL DATA
 The initial dataset consisted of 48 Excel sheets, each representing a specific aspect of QHSE metrics across different business units.
 
 These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
 
 # <p align="center">**BU Dashboard Sample**</p>
-![BU Dashboard Sample](images/BU%20Dashboard%20Sample.PNG "BU Dashboard Sample")
+![BU Dashboard Sample](images/BU%20Dashboard%20Sample.PNG "Sample of BU Dashboard" style="color:blue;")
 
-# <p align="center">**BU QLTY KPI Sample**</p>
-![BU QLTY KPI Sample](images/BU%20QLTY%20KPI%20Sample.PNG "BU QLTY KPI Sample")
+# <p align="center">**Sample of QLTY KPI Data Sheet**</p>
+![BU QLTY KPI Sample](images/BU%20QLTY%20KPI%20Sample.PNG "BU QLTY KPI Sample" style="color:blue;")
 
-# <p align="center">**BU KPI Sample**</p>
-![BU KPI Sample](images/BU%20KPI%20Sample.PNG "BU KPI Sample")
+# <p align="center">**Sample of BU KPI**</p>
+![BU KPI Sample](images/BU%20KPI%20Sample.PNG "BU KPI Sample" style="color:blue;")
 
 
 ## MY APPROACH
