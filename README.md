@@ -1,5 +1,4 @@
-# PROJECT NAME
-# EXCEL QHSE PERFORMANCE DASHBOARD
+# PROJECT NAME:                                 EXCEL QHSE PERFORMANCE DASHBOARD
 ## PROJECT TITLE: Unifying Metrics for Smarter Decision-Making
 This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
 
