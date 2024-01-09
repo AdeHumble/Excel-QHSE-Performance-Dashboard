@@ -75,6 +75,9 @@ These sheets ranges from vital categories like Document Control to Safety Activi
 ## RESULTS
 A video demonstration showcasing the cleaned synchronized data table and an interactive performance dashboard, providing a tangible representation of the project's success.
 
+# [![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+![Final Dashboard](videos/QHSE%20Final%20Dashboard.MP4 "Final Dashboard")
+
 ## SKILLS ACCRUED
 #### 1. Analytical Approach
 Developed a structured analytical approach to understanding complex challenges, breaking them into manageable phases, and delivering effective solutions.
