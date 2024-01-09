@@ -21,7 +21,7 @@ The challenge was not only technical but required a deep understanding of the in
 
 **My mission was to harmonize data from 48 different Excel sheets representing various aspects of our operations and deliver a comprehensive, user-friendly dashboard that facilitates informed decision-making.**
 
-## INITIAL DATA
+## INITIAL DATASHEETS BEFORE REVAMPING
 The initial dataset consisted of 48 Excel sheets, each representing a specific aspect of QHSE metrics across different business units.
 
 These sheets ranges from vital categories like Document Control to Safety Activity Plans, Lagging Indicators, Leading Indicators, and various KPIs and Dashboards for distinct business units.
