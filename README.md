@@ -75,7 +75,7 @@ These sheets ranges from vital categories like Document Control to Safety Activi
 ## RESULTS
 A video demonstration showcasing the cleaned synchronized data table and an interactive performance dashboard, providing a tangible representation of the project's success.
 
-[Watch the Video](videos/QHSE Final Dashboard.mp4)
+![Watch the Video](videos/QHSE Final Dashboard.mp4)
 
 
 ## SKILLS ACCRUED
