@@ -65,13 +65,13 @@ These sheets ranges from vital categories like Document Control to Safety Activi
 - Utilized the Slicer tool to develop an interactive performance dashboard, ensuring real-time synchronization with any changes in the underlying data.
 
 # <p align="center">**Leading Indicators Pivot Tablet**</p>
-![Leading Indicators Pivot Table(images/Pivot%20LeadIndicators.PNG "Leading Indicators Pivot Table")
+![Leading Indicators Pivot Table](images/Pivot%20LeadIndicators.PNG "Leading Indicators Pivot Table")
 
 # <p align="center">**5S Scores**</p>
-![Viz1 5S Sscores(images/Viz1%205S%20Scores.PNG "5S Scores")
+![Viz1 5S Sscores](images/Viz1%205S%20Scores.PNG "5S Scores")
 
 # <p align="center">**Target Vs Actual Trainees**</p>
-![Viz2 TraineeStat(images/Viz2%20TraineeStat.PNG "TraineeStat")
+![Viz2 TraineeStat](images/Viz2%20TraineeStat.PNG "TraineeStat")
 
 #### 5. The Share Phase
 - Collaborated with a colleague for feedback during the visualization stage.
