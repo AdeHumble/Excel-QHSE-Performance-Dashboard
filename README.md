@@ -1,17 +1,17 @@
-# <p align="center">**EXCEL QHSE PERFORMANCE DASHBOARD**</p>
+# <p align="center">**CFAO EXCEL QHSE PERFORMANCE DASHBOARD**</p>
 
 ## PROJECT TITLE: UNIFYING METRICS FOR SMARTER DECISION-MAKING
 This GitHub project encapsulates not just a technical achievement but a testament to my ability to tackle real-world data challenges and deliver impactful solutions
 
 
 ## PROJECT OVERVIEW
-In the dynamic landscape of data analytics, I, Mujeeb adeyanju SUNMOLA, an automotive part analyst, found myself in a compelling challenge that not only tested my analytical skills but also underscored the power of collaboration in problem-solving.
+In the dynamic landscape of data analytics as an automotive part analyst, I have found myself in a compelling challenge that not only tested my analytical skills but also underscored the power of collaboration in problem-solving.
 
 
 This journey began when my senior colleague, the HSE manager, approached me with a complex data visualization dilemma, seeking to consolidate diverse metrics across 11 business units. This GitHub project narrates my approach, challenges, and triumphs in turning this problem into a real-life data analytics project.
   
 
-Embark on a journey with me as I tackle a complex data analytics challenge presented by the Quality, Health, Safety, and Environment (QHSE) Manage
+Embark on a journey with me as I tackle a complex data analytics challenge presented by the Quality, Health, Safety, and Environment (QHSE) Manager.
 
   
 ## PROBLEM STATEMENT
@@ -46,9 +46,9 @@ These sheets ranges from vital categories like Document Control to Safety Activi
 ## MY APPROACH
 #### 1. The Ask Phase
 - Engaged in thorough discussions with the QHSE manager to understand objectives and expectations
-- Clarified professional jargon to sought clarity on complex metrics. Some of which includes
-      - Lagging Indicators
-      - Leading Indicators
+- Clarified professional jargon to sought clarity on complex metrics. Some of which includes:
+  - Lagging Indicators
+  - Leading Indicators
   
 #### 2. The Prepare Phase
 - Scrutinized the complex initial data
@@ -83,8 +83,7 @@ These sheets ranges from vital categories like Document Control to Safety Activi
 
 ## RESULTS
 A video demonstration showcasing the cleaned synchronized data table and an interactive performance dashboard, providing a tangible representation of the project's success.
-
-![Watch the Video](videos/QHSE Final Dashboard.mp4)
+[Watch the Video](https://drive.google.com/file/d/1_b3LpPV-UdF9bIsqmoxNnVEfY-ZDnSqq/view?usp=drive_link)
 
 
 ## SKILLS ACCRUED
